@@ -1,0 +1,46 @@
+#earth {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 175px;
+    height: 175px;
+    background: url(https://cdn.wallpapersafari.com/75/2/GTnMWj.jpg);
+    border-radius: 50%;
+    background-size: 610px;
+    box-shadow: inset 2px 16px 60px 16px rgb(0, 0, 0), inset -6px 0 12px 4px rgba(255, 255, 255, 0.3);
+    animation-name: rotate;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    -webkit-animation-name: rotate;
+   -webkit-animation-duration: 25s;
+   -webkit-animation-iteration-count: infinite;
+   -webkit-animation-timing-function: linear;
+  }
+  @keyframes rotate {
+    from {
+      background-position: 0px 0px;
+    }
+    to {
+      background-position: 610px 0px;
+    }
+  }
+  @-webkit-keyframes rotate {
+    from {
+      background-position: 0px 0px;
+    }
+    to {
+      background-position: 610px 0px;
+    }
+  }
+  #key{
+    margin-left: -30px;
+    width: 225px;
+    margin-top: 165px;
+
+  }
+  #center{
+      position: absolute;
+      top:12%;
+      left:50%;
+      transform: translate(-50%,-50%);
+  }

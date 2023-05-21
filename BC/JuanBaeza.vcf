@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Juan Baeza Pinto
+N;CHARSET=UTF-8:Baeza;Juan
+NICKNAME;CHARSET=UTF-8:Gerente Comercial
+GENDER:M
+UID;CHARSET=UTF-8:69531f4a-c34d-4a1e-8922-bd38a9476a53
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:juan.baeza@altapro.cl
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ventas@altapro.cl
+LOGO;TYPE=gif:https://www.keybyme.com/image/Keybyme_logo25.gif
+PHOTO;TYPE=jpg:https://www.keybyme.com/image/dad1.jpg
+TEL;TYPE=WORK,VOICE:562-2753-3688
+TEL;TYPE=CELL:569-4281-0172
+LABEL;CHARSET=UTF-8;TYPE=WORK:Work Address
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Av. Las Condes 9792 Oficina 313;Las Condes
+URL;type=WebSite;CHARSET=UTF-8:https://altapro.cl
+SOURCE;CHARSET=UTF-8:http://sourceurl
+REV:2019-01-04T20:18:50.127Z
+END:VCARD

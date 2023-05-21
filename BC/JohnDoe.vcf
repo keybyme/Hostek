@@ -1,0 +1,34 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:John D Doe
+N;CHARSET=UTF-8:Doe;John;D
+NICKNAME;CHARSET=UTF-8:Test User
+GENDER:M
+UID;CHARSET=UTF-8:69531f4a-c34d-4a1e-8922-bd38a9476a53
+BDAY:20181201
+ANNIVERSARY:20181201
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:john.homedoe@keybyme.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:john.work@keybyme.com
+LOGO;TYPE=png:https://testurl
+PHOTO;TYPE=png:https://testurl
+TEL;TYPE=CELL:240-555-1234
+TEL;TYPE=HOME,VOICE:312-555-1313
+TEL;TYPE=WORK,VOICE:312-555-1212
+LABEL;CHARSET=UTF-8;TYPE=HOME:Home Address
+ADR;CHARSET=UTF-8;TYPE=HOME:;;123 Main Street;Chicago;IL;12345;United States of America
+LABEL;CHARSET=UTF-8;TYPE=WORK:Work Address
+ADR;CHARSET=UTF-8;TYPE=WORK:;;123 Corporate Loop\nSuite 500;Los Angeles;CA;12345;California Republic
+TITLE;CHARSET=UTF-8:Crash Test Dummy
+ROLE;CHARSET=UTF-8:Crash Testing
+ORG;CHARSET=UTF-8:ACME Corporation
+URL;CHARSET=UTF-8:https://www.keybyme.com
+URL;type=WORK;CHARSET=UTF-8:http://jondoe.com
+NOTE;CHARSET=UTF-8:John Doe's \nnotes\;\,
+X-SOCIALPROFILE;TYPE=facebook:https://facebook/johndoe
+X-SOCIALPROFILE;TYPE=linkedIn:https://linkedin/johndoe
+X-SOCIALPROFILE;TYPE=twitter:https://twitter/johndoe
+X-SOCIALPROFILE;TYPE=flickr:https://flickr/johndoe
+X-SOCIALPROFILE;TYPE=custom:https://custom/johndoe
+SOURCE;CHARSET=UTF-8:http://sourceurl
+REV:2019-01-04T20:18:50.127Z
+END:VCARD

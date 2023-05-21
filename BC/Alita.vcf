@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Alejandra Pickering
+N;CHARSET=UTF-8:Pickering;Alejandra
+NICKNAME;CHARSET=UTF-8:Stylist
+GENDER:F
+UID;CHARSET=UTF-8:69531f4a-c34d-4a1e-8922-bd38a9476a53
+UID;CHARSET=UTF-8:69531f4a-c34d-4a1e-8922-bd38a9476a53
+EMAIL;CHARSET=UTF-8;type=E-mail,INTERNET:alejandra@alejandrasdesign.com
+PHOTO;TYPE=png;VALUE=URI:https://www.keybyme.com/pic/Alita.png
+TEL;TYPE=CELL:2403500933
+LABEL;CHARSET=UTF-8;TYPE=WORK:Work Address
+ADR;CHARSET=UTF-8;TYPE=At Symmetry Salon Studios:;;4908 Hampden LN;Bethesda;MD;20814
+URL;type=WebSite;CHARSET=UTF-8:https://alejandrasdesign.com/
+URL;Type=Instagram;CHARSET=UTF-8:https://www.instagram.com/alejandras_designs/
+REV:2019-01-04T20:18:50.127Z
+END:VCARD

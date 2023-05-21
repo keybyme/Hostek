@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="qr code, qrcode, barcode, qr stuff" />
+<meta name="author" content="qrstuff" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>QR Stuff</title>
+<SCRIPT LANGUAGE="JavaScript">
+
+
+function DisplayImage(filename)
+{
+  mainimage.src = filename;
+}
+</script>
+</head>
+
+<body>
+
+<table>
+	<tr>
+		<td>
+        	<script type="text/javascript">
+            	var d = new Date()
+				var time = d.getHours()
+				var str = "Lectura matinal!";
+				var stt = "Lectura vespertina!";
+				var ampm = "0";
+				if (time < 12)
+					{
+						ampm = "1";
+					//<p>	<a href="javascript:DisplayImage('image/LecturaAM.GIF')">Image 1</a>
+                       //  <a href="javascript:DisplayImage('image/LectuaPM.GIF')">Image 2</a></p>
+                     // document.write(str.link("http://www.iglesiadedios.us/IglesiaDeDios/ListarBibliaAM.cfm"));
+					}
+				else
+				    {
+						ampm = "2";
+						//	<p>	<a href="javascript:DisplayImage('image/LecturaAM.GIF')">Image 1</a>
+                      //   <a href="javascript:DisplayImage('image/LectuaPM.GIF')">Image 2</a></p>
+						 // document.write(stt.link("http://www.iglesiadedios.us/IglesiaDeDios/ListarBibliaPM.cfm"));
+					}	
+					
+			</script></td>
+	</tr>
+</table>
+</body>
+</html>

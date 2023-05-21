@@ -1,0 +1,7 @@
+   bcc ="wesnetwork@keybyme.com"        
+                       subject="#ws_subject#" type="HTML"
+                       server="outlook.office365.com"
+                       port="995"
+                       username="safety@lfjennings.com" 
+                       password="qdtxygbppdjrjtlb" 
+                       useTLS = "yes">  
